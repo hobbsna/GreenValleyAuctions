@@ -1,0 +1,15 @@
+/*Recolor login button*/
+.btn, .btn:hover, #login {
+    color: #ffffff;
+    background-color: #3a6141;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+li < a {
+    color: #3a6141;
+    text-decoration: none;
+}
